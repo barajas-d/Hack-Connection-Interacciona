@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppHack36Movil</string>
+    <string name="home">home</string>
+    <string name="map">map</string>
+    <string name="item5">item5</string>
+    <string name="item4">item4</string>
+    <string name="item6">item6</string>
+    <string name="denun">denun</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
